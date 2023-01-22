@@ -1,0 +1,80 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\sectionentry {1}{First settings}{3}{First settings}{0}}
+\headcommand {\slideentry {1}{0}{1}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{4}{Themes}}
+\headcommand {\slideentry {1}{1}{1}{4/10}{Themes}{0}}
+\headcommand {\beamer@framepages {4}{10}}
+\headcommand {\slideentry {1}{1}{2}{11/11}{Themes}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\beamer@subsectionpages {4}{11}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{12}{Frame numbers}}
+\headcommand {\slideentry {1}{2}{1}{12/12}{Frame numbers}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\slideentry {1}{2}{2}{13/13}{Frame numbers}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\beamer@subsectionpages {12}{13}}
+\headcommand {\beamer@subsectionentry {0}{1}{3}{14}{Aspect}}
+\headcommand {\slideentry {1}{3}{1}{14/14}{Aspect}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\beamer@sectionpages {3}{14}}
+\headcommand {\beamer@subsectionpages {14}{14}}
+\headcommand {\sectionentry {2}{Elements}{15}{Presentation elements}{0}}
+\headcommand {\slideentry {2}{0}{1}{15/15}{}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\beamer@subsectionpages {15}{15}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{16}{Highlight current section}}
+\headcommand {\slideentry {2}{1}{1}{16/17}{Highlight current section}{0}}
+\headcommand {\beamer@framepages {16}{17}}
+\headcommand {\beamer@subsectionpages {16}{17}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{18}{Columns}}
+\headcommand {\slideentry {2}{2}{1}{18/18}{Columns}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\beamer@subsectionpages {18}{18}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{19}{Images, videos and attachments}}
+\headcommand {\slideentry {2}{3}{1}{19/19}{Images, videos and attachments}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\slideentry {2}{3}{2}{20/20}{Images, videos and attachments}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\slideentry {2}{3}{3}{21/21}{Images, videos and attachments}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\beamer@subsectionpages {19}{21}}
+\headcommand {\beamer@subsectionentry {0}{2}{4}{22}{Overlays: pause, visible, unconver, only}}
+\headcommand {\slideentry {2}{4}{1}{22/25}{Overlays: pause, visible, unconver, only}{0}}
+\headcommand {\beamer@framepages {22}{25}}
+\headcommand {\slideentry {2}{4}{2}{26/31}{Overlays: pause, visible, unconver, only}{0}}
+\headcommand {\beamer@framepages {26}{31}}
+\headcommand {\beamer@subsectionpages {22}{31}}
+\headcommand {\beamer@subsectionentry {0}{2}{5}{32}{Tables}}
+\headcommand {\slideentry {2}{5}{1}{32/32}{Tables}{0}}
+\headcommand {\beamer@framepages {32}{32}}
+\headcommand {\beamer@subsectionpages {32}{32}}
+\headcommand {\beamer@subsectionentry {0}{2}{6}{33}{Blocks}}
+\headcommand {\slideentry {2}{6}{1}{33/34}{Blocks}{0}}
+\headcommand {\beamer@framepages {33}{34}}
+\headcommand {\slideentry {2}{6}{2}{35/38}{Blocks}{0}}
+\headcommand {\beamer@framepages {35}{38}}
+\headcommand {\beamer@subsectionpages {33}{38}}
+\headcommand {\beamer@subsectionentry {0}{2}{7}{39}{Math}}
+\headcommand {\slideentry {2}{7}{1}{39/39}{Math}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\beamer@sectionpages {15}{39}}
+\headcommand {\beamer@subsectionpages {39}{39}}
+\headcommand {\sectionentry {3}{Handout}{40}{Presentation handout}{0}}
+\headcommand {\slideentry {3}{0}{1}{40/40}{}{0}}
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\beamer@subsectionpages {40}{40}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{41}{Handout option}}
+\headcommand {\slideentry {3}{1}{1}{41/41}{Handout option}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\beamer@partpages {1}{41}}
+\headcommand {\beamer@subsectionpages {41}{41}}
+\headcommand {\beamer@sectionpages {40}{41}}
+\headcommand {\beamer@documentpages {41}}
+\headcommand {\gdef \inserttotalframenumber {22}}
