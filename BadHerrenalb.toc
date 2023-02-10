@@ -1,0 +1,14 @@
+\beamer@sectionintoc {1}{Ausgangslage}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Ziele der Veranstaltung}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Fragestellungen}{9}{0}{1}
+\beamer@subsectionintoc {1}{3}{Jahres-Ablauf}{14}{0}{1}
+\beamer@subsectionintoc {1}{4}{Wie gehen wir am Besten vor?}{20}{0}{1}
+\beamer@sectionintoc {2}{Gruppenarbeit}{21}{0}{2}
+\beamer@subsectionintoc {2}{1}{Welche Flächen stehen uns zur Verfügung?}{22}{0}{2}
+\beamer@subsectionintoc {2}{2}{Gruppen-Arbeit}{26}{0}{2}
+\beamer@sectionintoc {3}{Summary}{30}{0}{3}
+\beamer@subsectionintoc {3}{1}{Summary Gruppe "Garten"}{31}{0}{3}
+\beamer@subsectionintoc {3}{2}{Summary Gruppe "Strasse"}{32}{0}{3}
+\beamer@subsectionintoc {3}{3}{Summary Gruppe "Blühfläche"}{33}{0}{3}
+\beamer@sectionintoc {4}{Nächste Schritte}{34}{0}{4}
+\beamer@subsectionintoc {4}{1}{Wie geht's weiter?}{35}{0}{4}
