@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.27)  9 FEB 2023 20:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.27)  10 FEB 2023 23:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/mk/Desktop/Vorträge/Vorträge_2023/Impuls-Vortrag/Beamer-Tutorial_2/BadHerrenalb.tex
-(c:/Users/mk/Desktop/Vorträge/Vorträge_2023/Impuls-Vortrag/Beamer-Tutorial_2/BadHerrenalb.tex
+**c:/Users/mk/Desktop/Aktivitäten/Vorträge/Vorträge_2023/Impuls-Vortrag/Beamer-Tutorial_2/BadHerrenalb.tex
+(c:/Users/mk/Desktop/Aktivitäten/Vorträge/Vorträge_2023/Impuls-Vortrag/Beamer-Tutorial_2/BadHerrenalb.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-01-16> (C:\Program Files\MiKTeX\tex/latex/beamer\beamer.cls
 Document Class: beamer 2022/09/13 v3.68 A class for typesetting presentations
@@ -537,40 +537,91 @@ Package: amsthm 2020/05/29 v2.20.6
 ) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbasethemes.sty)) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerthemedefault.sty (C:\Program Files\MiKTeX\tex/latex/beamer\beamerfontthemedefault.sty) (C:\Program Files\MiKTeX\tex/latex/beamer\beamercolorthemedefault.sty) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerinnerthemedefault.sty
 \beamer@dima=\dimen292
 \beamer@dimb=\dimen293
-) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerouterthemedefault.sty))) (settings/packages.tex) (C:\Program Files\MiKTeX\tex/latex/beamer\multimedia.sty
+) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerouterthemedefault.sty))) (settings/packages.tex (C:\Program Files\MiKTeX\tex/latex/beamer\multimedia.sty
 Package: multimedia 2012/05/02 ver 0.02
  (C:\Program Files\MiKTeX\tex/generic/iftex\ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 )
 \mm@movie=\count334
-) (settings/page.tex (C:\Program Files\MiKTeX\tex/latex/beamer\beamerthemeBerkeley.sty (C:\Program Files\MiKTeX\tex/latex/beamer\beamerouterthemesidebar.sty
-\beamer@sidebarwidth=\dimen294
-\beamer@headheight=\dimen295
+)) (C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box76
+) (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen294
+\pgf@nodesepend=\dimen295
+) (C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen296
+\pgffor@skip=\dimen297
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+)) (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count335
+\pgfplotmarksize=\dimen298
+)
+\tikz@lastx=\dimen299
+\tikz@lasty=\dimen300
+\tikz@lastxsaved=\dimen301
+\tikz@lastysaved=\dimen302
+\tikz@lastmovetox=\dimen303
+\tikz@lastmovetoy=\dimen304
+\tikzleveldistance=\dimen305
+\tikzsiblingdistance=\dimen306
+\tikz@figbox=\box77
+\tikz@figbox@bg=\box78
+\tikz@tempbox=\box79
+\tikz@tempbox@bg=\box80
+\tikztreelevel=\count336
+\tikznumberofchildren=\count337
+\tikznumberofcurrentchild=\count338
+\tikz@fig@count=\count339
+ (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count340
+\pgfmatrixcurrentcolumn=\count341
+\pgf@matrix@numberofcolumns=\count342
+)
+\tikz@expandcount=\count343
+ (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (settings/page.tex (C:\Program Files\MiKTeX\tex/latex/beamer\beamerthemeBerkeley.sty (C:\Program Files\MiKTeX\tex/latex/beamer\beamerouterthemesidebar.sty
+\beamer@sidebarwidth=\dimen307
+\beamer@headheight=\dimen308
 ) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerinnerthemerectangles.sty) (C:\Program Files\MiKTeX\tex/latex/beamer\beamercolorthemewhale.sty) (C:\Program Files\MiKTeX\tex/latex/beamer\beamercolorthemeorchid.sty)) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerfontthemeprofessionalfonts.sty)) (settings/macros.tex) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count335
-\l__pdf_internal_box=\box76
+\l__color_backend_stack_int=\count344
+\l__pdf_internal_box=\box81
 ) (BadHerrenalb.aux)
 \openout1 = `BadHerrenalb.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -608,24 +659,24 @@ LaTeX Font Info:    ... okay on input line 19.
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count336
-\scratchdimen=\dimen296
-\scratchbox=\box77
-\nofMPsegments=\count337
-\nofMParguments=\count338
-\everyMPshowfont=\toks45
-\MPscratchCnt=\count339
-\MPscratchDim=\dimen297
-\MPnumerator=\count340
-\makeMPintoPDFobject=\count341
-\everyMPtoPDFconversion=\toks46
+\scratchcounter=\count345
+\scratchdimen=\dimen309
+\scratchbox=\box82
+\nofMPsegments=\count346
+\nofMParguments=\count347
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count348
+\MPscratchDim=\dimen310
+\MPnumerator=\count349
+\makeMPintoPDFobject=\count350
+\everyMPtoPDFconversion=\toks48
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 19.
+Package hyperref Info: Link coloring OFF on input line 27.
  (BadHerrenalb.out) (BadHerrenalb.out)
 \@outlinefile=\write5
 \openout5 = `BadHerrenalb.out'.
@@ -643,164 +694,422 @@ Dictionary: translator-numbers-dictionary, Language: English
 ) (C:\Program Files\MiKTeX\tex/latex/translator\translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (BadHerrenalb.nav)
+<figures/NPSMN.jpg, id=73, 255.95625pt x 187.70125pt>
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 27.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 25.
+(hyperref)                setting the option has no effect on input line 33.
 
-<figures/logo2.png, id=69, 151.56625pt x 110.4125pt>
-File: figures/logo2.png Graphic file (type png)
-<use figures/logo2.png>
-Package pdftex.def Info: figures/logo2.png  used on input line 30.
-(pdftex.def)             Requested size: 76.3571pt x 55.62392pt.
+<figures/Logo_Bad_herrenalb.JPG, id=74, 630.85687pt x 391.4625pt>
+File: figures/Logo_Bad_herrenalb.JPG Graphic file (type jpg)
+<use figures/Logo_Bad_herrenalb.JPG>
+Package pdftex.def Info: figures/Logo_Bad_herrenalb.JPG  used on input line 40.
+(pdftex.def)             Requested size: 76.3571pt x 47.37964pt.
+<figures/NPSMN.png, id=75, 255.95625pt x 187.70125pt>
+File: figures/NPSMN.png Graphic file (type png)
+<use figures/NPSMN.png>
+Package pdftex.def Info: figures/NPSMN.png  used on input line 40.
+(pdftex.def)             Requested size: 68.71964pt x 50.3936pt.
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 40.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
 [1{C:/Users/mk/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
- <./figures/logo2.png>] (BadHerrenalb.toc) [2
+ <./figures/NPSMN.jpg> <./figures/Logo_Bad_herrenalb.JPG> <./figures/NPSMN.png>] (BadHerrenalb.toc)
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 51.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [2
 
-] (BadHerrenalb.toc) [3
-
-] [4
-
-] [5
-
-] [6
-
-] [7
-
-] [8
-
-] [9
-
-] [10
-
-] [11
-
-] [12
-
-] [13
-
-] [14
-
-] [15
-
-] [16
-
-] [17
-
-] [18
-
-] [19
-
-]
-<figures/Ablaufplan_png.png, id=483, 1634.105pt x 1091.07625pt>
-File: figures/Ablaufplan_png.png Graphic file (type png)
-<use figures/Ablaufplan_png.png>
-Package pdftex.def Info: figures/Ablaufplan_png.png  used on input line 141.
-(pdftex.def)             Requested size: 267.25278pt x 178.4382pt.
- [20
-
- <./figures/Ablaufplan_png.png (PNG copy)>] (BadHerrenalb.toc) [21
-
-] [22
-
-]
-<figures/Vorgarten.jpg, id=547, 793.46437pt x 510.45442pt>
-File: figures/Vorgarten.jpg Graphic file (type jpg)
-<use figures/Vorgarten.jpg>
-Package pdftex.def Info: figures/Vorgarten.jpg  used on input line 199.
-(pdftex.def)             Requested size: 152.71712pt x 98.24135pt.
-
-Overfull \vbox (24.29265pt too high) detected at line 199
+] (BadHerrenalb.toc)
+Overfull \vbox (8.6595pt too high) detected at line 60
  []
 
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 60.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+[3
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 75.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [4
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 95.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [5
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 95.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [6
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 95.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [7
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 95.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [8
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 117.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [9
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 117.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [10
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 117.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [11
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 117.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [12
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 117.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [13
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 138.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [14
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 138.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [15
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 138.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [16
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 138.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [17
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 138.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [18
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 138.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [19
+
+]
+<figures/Ablaufschema.JPG, id=512, 1196.97188pt x 493.0922pt>
+File: figures/Ablaufschema.JPG Graphic file (type jpg)
+<use figures/Ablaufschema.JPG>
+Package pdftex.def Info: figures/Ablaufschema.JPG  used on input line 152.
+(pdftex.def)             Requested size: 381.79135pt x 157.27356pt.
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 152.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [20
+
+ <./figures/Ablaufschema.JPG>] (BadHerrenalb.toc)
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 168.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [21
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 210.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [22
+
+]
+<figures/Vorgarten.jpg, id=580, 793.46437pt x 510.45442pt>
+File: figures/Vorgarten.jpg Graphic file (type jpg)
+<use figures/Vorgarten.jpg>
+Package pdftex.def Info: figures/Vorgarten.jpg  used on input line 210.
+(pdftex.def)             Requested size: 152.71712pt x 98.24135pt.
+
+Overfull \vbox (24.29265pt too high) detected at line 210
+ []
+
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 210.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
 [23
 
  <./figures/Vorgarten.jpg>]
-<figures/Strasse.jpg, id=568, 465.95131pt x 302.78638pt>
+<figures/Strasse.jpg, id=602, 465.95131pt x 302.78638pt>
 File: figures/Strasse.jpg Graphic file (type jpg)
 <use figures/Strasse.jpg>
-Package pdftex.def Info: figures/Strasse.jpg  used on input line 199.
+Package pdftex.def Info: figures/Strasse.jpg  used on input line 210.
 (pdftex.def)             Requested size: 152.71712pt x 99.24065pt.
 
-Overfull \vbox (25.29195pt too high) detected at line 199
+Overfull \vbox (25.29195pt too high) detected at line 210
  []
 
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 210.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
 [24
 
  <./figures/Strasse.jpg>]
-<figures/Blühwiese.jpg, id=589, 1284.8pt x 856.19875pt>
+<figures/Blühwiese.jpg, id=624, 1284.8pt x 856.19875pt>
 File: figures/Blühwiese.jpg Graphic file (type jpg)
 <use figures/Blühwiese.jpg>
-Package pdftex.def Info: figures/Blühwiese.jpg  used on input line 199.
+Package pdftex.def Info: figures/Blühwiese.jpg  used on input line 210.
 (pdftex.def)             Requested size: 152.71712pt x 101.75957pt.
 
-Overfull \vbox (27.81087pt too high) detected at line 199
+Overfull \vbox (27.81087pt too high) detected at line 210
  []
 
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 210.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
 [25
 
- <./figures/Blühwiese.jpg>] [26
+ <./figures/Blühwiese.jpg>]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 251.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [26
 
 ]
-File: figures/Strasse.jpg Graphic file (type jpg)
-<use figures/Strasse.jpg>
-Package pdftex.def Info: figures/Strasse.jpg  used on input line 240.
-(pdftex.def)             Requested size: 66.81465pt x 43.41547pt.
+File: figures/Vorgarten.jpg Graphic file (type jpg)
+<use figures/Vorgarten.jpg>
+Package pdftex.def Info: figures/Vorgarten.jpg  used on input line 251.
+(pdftex.def)             Requested size: 66.81465pt x 42.97913pt.
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 251.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
  [27
 
 ]
-File: figures/Strasse.jpg Graphic file (type jpg)
-<use figures/Strasse.jpg>
-Package pdftex.def Info: figures/Strasse.jpg  used on input line 240.
-(pdftex.def)             Requested size: 66.81465pt x 43.41547pt.
 File: figures/Vorgarten.jpg Graphic file (type jpg)
 <use figures/Vorgarten.jpg>
-Package pdftex.def Info: figures/Vorgarten.jpg  used on input line 240.
+Package pdftex.def Info: figures/Vorgarten.jpg  used on input line 251.
 (pdftex.def)             Requested size: 66.81465pt x 42.97913pt.
+File: figures/Strasse.jpg Graphic file (type jpg)
+<use figures/Strasse.jpg>
+Package pdftex.def Info: figures/Strasse.jpg  used on input line 251.
+(pdftex.def)             Requested size: 66.81465pt x 43.41547pt.
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 251.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
  [28
 
 ]
-File: figures/Strasse.jpg Graphic file (type jpg)
-<use figures/Strasse.jpg>
-Package pdftex.def Info: figures/Strasse.jpg  used on input line 240.
-(pdftex.def)             Requested size: 66.81465pt x 43.41547pt.
 File: figures/Vorgarten.jpg Graphic file (type jpg)
 <use figures/Vorgarten.jpg>
-Package pdftex.def Info: figures/Vorgarten.jpg  used on input line 240.
+Package pdftex.def Info: figures/Vorgarten.jpg  used on input line 251.
 (pdftex.def)             Requested size: 66.81465pt x 42.97913pt.
+File: figures/Strasse.jpg Graphic file (type jpg)
+<use figures/Strasse.jpg>
+Package pdftex.def Info: figures/Strasse.jpg  used on input line 251.
+(pdftex.def)             Requested size: 66.81465pt x 43.41547pt.
 File: figures/Blühwiese.jpg Graphic file (type jpg)
 <use figures/Blühwiese.jpg>
-Package pdftex.def Info: figures/Blühwiese.jpg  used on input line 240.
+Package pdftex.def Info: figures/Blühwiese.jpg  used on input line 251.
 (pdftex.def)             Requested size: 66.81465pt x 44.5239pt.
 
-Overfull \vbox (10.91063pt too high) detected at line 240
+Overfull \vbox (10.91063pt too high) detected at line 251
  []
 
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 251.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
 [29
 
-] (BadHerrenalb.toc) [30
+]
+File: figures/Vorgarten.jpg Graphic file (type jpg)
+<use figures/Vorgarten.jpg>
+Package pdftex.def Info: figures/Vorgarten.jpg  used on input line 251.
+(pdftex.def)             Requested size: 66.81465pt x 42.97913pt.
+File: figures/Strasse.jpg Graphic file (type jpg)
+<use figures/Strasse.jpg>
+Package pdftex.def Info: figures/Strasse.jpg  used on input line 251.
+(pdftex.def)             Requested size: 66.81465pt x 43.41547pt.
+File: figures/Blühwiese.jpg Graphic file (type jpg)
+<use figures/Blühwiese.jpg>
+Package pdftex.def Info: figures/Blühwiese.jpg  used on input line 251.
+(pdftex.def)             Requested size: 66.81465pt x 44.5239pt.
 
-] [31
+Overfull \vbox (10.91063pt too high) detected at line 251
+ []
 
-] [32
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 251.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+[30
 
-] [33
+] (BadHerrenalb.toc)
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 262.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [31
 
 ]
-File: figures/Ablaufplan_png.png Graphic file (type png)
-<use figures/Ablaufplan_png.png>
-Package pdftex.def Info: figures/Ablaufplan_png.png  used on input line 296.
-(pdftex.def)             Requested size: 267.25278pt x 178.4382pt.
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 272.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [32
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 281.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [33
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 290.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
  [34
 
-] [35
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 312.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [35
 
-] [36
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 312.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [36
 
-] [37
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 312.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [37
 
-] [38
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 312.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [38
 
-] [39
+]
+File: figures/Ablaufschema.JPG Graphic file (type jpg)
+<use figures/Ablaufschema.JPG>
+Package pdftex.def Info: figures/Ablaufschema.JPG  used on input line 331.
+(pdftex.def)             Requested size: 381.79135pt x 157.27356pt.
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 331.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [39
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 361.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [40
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 361.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [41
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 361.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [42
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 361.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [43
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 361.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [44
+
+]
+File: figures/NPSMN.jpg Graphic file (type jpg)
+<use figures/NPSMN.jpg>
+Package pdftex.def Info: figures/NPSMN.jpg  used on input line 361.
+(pdftex.def)             Requested size: 38.41139pt x 28.16829pt.
+ [45
 
 ]
 \tf@nav=\write6
@@ -814,20 +1123,20 @@ Package pdftex.def Info: figures/Ablaufplan_png.png  used on input line 296.
 
  (BadHerrenalb.aux)
 Package rerunfilecheck Info: File `BadHerrenalb.out' has not changed.
-(rerunfilecheck)             Checksum: FDA1438A2171FDBE5B359986E263E315;2198.
+(rerunfilecheck)             Checksum: DE1A20B0C392DFFEB3BB9FBC74FE99AC;2310.
  ) 
 Here is how much of TeX's memory you used:
- 22158 strings out of 476404
- 434401 string characters out of 2799348
- 1865324 words of memory out of 3000000
- 41955 multiletter control sequences out of 15000+600000
- 515007 words of font info for 41 fonts, out of 8000000 for 9000
+ 25364 strings out of 476404
+ 510071 string characters out of 2799348
+ 1867324 words of memory out of 3000000
+ 45105 multiletter control sequences out of 15000+600000
+ 515595 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,16n,122p,465b,708s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 128i,23n,122p,478b,1106s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on BadHerrenalb.pdf (39 pages, 1141469 bytes).
+Output written on BadHerrenalb.pdf (45 pages, 1211715 bytes).
 PDF statistics:
- 942 PDF objects out of 1000 (max. 8388607)
- 93 named destinations out of 1000 (max. 500000)
- 184 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1121 PDF objects out of 1200 (max. 8388607)
+ 106 named destinations out of 1000 (max. 500000)
+ 202 words of extra memory for PDF output out of 10000 (max. 10000000)
 

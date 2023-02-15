@@ -1,6 +1,6 @@
-PWD c:\Users\mk\Desktop\Vorträge\Vorträge_2023\Impuls-Vortrag\Beamer-Tutorial_2
+PWD c:\Users\mk\Desktop\Aktivitäten\Vorträge\Vorträge_2023\Impuls-Vortrag\Beamer-Tutorial_2
 INPUT C:\Users\mk\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\mk\Desktop\Vorträge\Vorträge_2023\Impuls-Vortrag\Beamer-Tutorial_2\BadHerrenalb.tex
+INPUT c:\Users\mk\Desktop\Aktivitäten\Vorträge\Vorträge_2023\Impuls-Vortrag\Beamer-Tutorial_2\BadHerrenalb.tex
 OUTPUT BadHerrenalb.log
 INPUT C:\Program Files\MiKTeX\tex\latex\beamer\beamer.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\beamer\beamer.cls
@@ -1135,6 +1135,83 @@ INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
 INPUT .\settings\page.tex
 INPUT .\settings\page.tex
 INPUT .\settings\page.tex
@@ -1289,15 +1366,35 @@ INPUT .\BadHerrenalb.nav
 INPUT BadHerrenalb.nav
 INPUT BadHerrenalb.nav
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
-INPUT .\figures\logo2.png
-INPUT .\figures\logo2.png
-INPUT figures\logo2.png
-INPUT .\figures\logo2.png
-INPUT .\figures\logo2.png
-INPUT .\figures\logo2.png
-INPUT .\figures\logo2.png
+INPUT .\figures\Logo_Bad_herrenalb.JPG
+INPUT .\figures\Logo_Bad_herrenalb.JPG
+INPUT figures\Logo_Bad_herrenalb.JPG
+INPUT .\figures\Logo_Bad_herrenalb.JPG
+INPUT .\figures\Logo_Bad_herrenalb.JPG
+INPUT .\figures\Logo_Bad_herrenalb.JPG
+INPUT .\figures\Logo_Bad_herrenalb.JPG
+INPUT .\figures\NPSMN.png
+INPUT .\figures\NPSMN.png
+INPUT figures\NPSMN.png
+INPUT .\figures\NPSMN.png
+INPUT .\figures\NPSMN.png
+INPUT .\figures\NPSMN.png
+INPUT .\figures\NPSMN.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
 INPUT C:\Users\mk\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT .\BadHerrenalb.toc
 INPUT BadHerrenalb.toc
@@ -1305,18 +1402,103 @@ INPUT BadHerrenalb.toc
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss9.tfm
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
 INPUT .\BadHerrenalb.toc
 INPUT BadHerrenalb.toc
 INPUT BadHerrenalb.toc
-INPUT .\figures\Ablaufplan_png.png
-INPUT figures\Ablaufplan_png.png
-INPUT .\figures\Ablaufplan_png.png
-INPUT .\figures\Ablaufplan_png.png
-INPUT .\figures\Ablaufplan_png.png
-INPUT .\figures\Ablaufplan_png.png
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\Ablaufschema.JPG
+INPUT .\figures\Ablaufschema.JPG
+INPUT figures\Ablaufschema.JPG
+INPUT .\figures\Ablaufschema.JPG
+INPUT .\figures\Ablaufschema.JPG
+INPUT .\figures\Ablaufschema.JPG
+INPUT .\figures\Ablaufschema.JPG
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
 INPUT .\BadHerrenalb.toc
 INPUT BadHerrenalb.toc
 INPUT BadHerrenalb.toc
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
 INPUT .\figures\Vorgarten.jpg
 INPUT .\figures\Vorgarten.jpg
 INPUT figures\Vorgarten.jpg
@@ -1324,6 +1506,10 @@ INPUT .\figures\Vorgarten.jpg
 INPUT .\figures\Vorgarten.jpg
 INPUT .\figures\Vorgarten.jpg
 INPUT .\figures\Vorgarten.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
 INPUT .\figures\Strasse.jpg
 INPUT .\figures\Strasse.jpg
 INPUT figures\Strasse.jpg
@@ -1331,6 +1517,10 @@ INPUT .\figures\Strasse.jpg
 INPUT .\figures\Strasse.jpg
 INPUT .\figures\Strasse.jpg
 INPUT .\figures\Strasse.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
 INPUT .\figures\Blühwiese.jpg
 INPUT .\figures\Blühwiese.jpg
 INPUT figures\Blühwiese.jpg
@@ -1338,14 +1528,22 @@ INPUT .\figures\Blühwiese.jpg
 INPUT .\figures\Blühwiese.jpg
 INPUT .\figures\Blühwiese.jpg
 INPUT .\figures\Blühwiese.jpg
-INPUT .\figures\Strasse.jpg
-INPUT .\figures\Strasse.jpg
-INPUT figures\Strasse.jpg
-INPUT .\figures\Strasse.jpg
-INPUT .\figures\Strasse.jpg
-INPUT .\figures\Strasse.jpg
-INPUT figures\Strasse.jpg
-INPUT .\figures\Strasse.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\Vorgarten.jpg
+INPUT .\figures\Vorgarten.jpg
+INPUT figures\Vorgarten.jpg
+INPUT .\figures\Vorgarten.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
 INPUT .\figures\Vorgarten.jpg
 INPUT .\figures\Vorgarten.jpg
 INPUT figures\Vorgarten.jpg
@@ -1354,20 +1552,109 @@ INPUT .\figures\Strasse.jpg
 INPUT .\figures\Strasse.jpg
 INPUT figures\Strasse.jpg
 INPUT .\figures\Strasse.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
 INPUT .\figures\Vorgarten.jpg
 INPUT .\figures\Vorgarten.jpg
 INPUT figures\Vorgarten.jpg
 INPUT .\figures\Vorgarten.jpg
+INPUT .\figures\Strasse.jpg
+INPUT .\figures\Strasse.jpg
+INPUT figures\Strasse.jpg
+INPUT .\figures\Strasse.jpg
 INPUT .\figures\Blühwiese.jpg
 INPUT .\figures\Blühwiese.jpg
 INPUT figures\Blühwiese.jpg
 INPUT .\figures\Blühwiese.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\Vorgarten.jpg
+INPUT .\figures\Vorgarten.jpg
+INPUT figures\Vorgarten.jpg
+INPUT .\figures\Vorgarten.jpg
+INPUT .\figures\Strasse.jpg
+INPUT .\figures\Strasse.jpg
+INPUT figures\Strasse.jpg
+INPUT .\figures\Strasse.jpg
+INPUT .\figures\Blühwiese.jpg
+INPUT .\figures\Blühwiese.jpg
+INPUT figures\Blühwiese.jpg
+INPUT .\figures\Blühwiese.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
 INPUT .\BadHerrenalb.toc
 INPUT BadHerrenalb.toc
 INPUT BadHerrenalb.toc
-INPUT .\figures\Ablaufplan_png.png
-INPUT figures\Ablaufplan_png.png
-INPUT .\figures\Ablaufplan_png.png
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\Ablaufschema.JPG
+INPUT .\figures\Ablaufschema.JPG
+INPUT figures\Ablaufschema.JPG
+INPUT .\figures\Ablaufschema.JPG
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
+INPUT figures\NPSMN.jpg
+INPUT .\figures\NPSMN.jpg
 OUTPUT BadHerrenalb.nav
 OUTPUT BadHerrenalb.toc
 OUTPUT BadHerrenalb.snm
