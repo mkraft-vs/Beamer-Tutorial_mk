@@ -1,0 +1,2 @@
+\frametitle{{#1}} 
+\framesubtitle{#2}

@@ -1,6 +1,6 @@
-PWD c:\Users\mk\Desktop\Aktivitäten\Vorträge\Vorträge_2023\Impuls-Vortrag\Beamer-Tutorial_2
+PWD c:\Users\mk\Desktop\Aktivitäten\Beamer-Tutorial_mk
 INPUT C:\Users\mk\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\mk\Desktop\Aktivitäten\Vorträge\Vorträge_2023\Impuls-Vortrag\Beamer-Tutorial_2\BadHerrenalb.tex
+INPUT c:\Users\mk\Desktop\Aktivitäten\Beamer-Tutorial_mk\BadHerrenalb.tex
 OUTPUT BadHerrenalb.log
 INPUT C:\Program Files\MiKTeX\tex\latex\beamer\beamer.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\beamer\beamer.cls
@@ -1327,16 +1327,6 @@ INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT .\BadHerrenalb.out
-INPUT BadHerrenalb.out
-INPUT .\BadHerrenalb.out
-INPUT BadHerrenalb.out
-INPUT .\BadHerrenalb.out
-INPUT BadHerrenalb.out
-INPUT .\BadHerrenalb.out
-INPUT BadHerrenalb.out
-INPUT .\BadHerrenalb.out
-INPUT .\BadHerrenalb.out
 OUTPUT BadHerrenalb.out
 INPUT C:\Program Files\MiKTeX\tex\latex\translator\translator-basic-dictionary-English.dict
 INPUT C:\Program Files\MiKTeX\tex\latex\translator\translator-basic-dictionary-English.dict
@@ -1362,9 +1352,6 @@ INPUT C:\Program Files\MiKTeX\tex\latex\translator\translator-theorem-dictionary
 INPUT C:\Program Files\MiKTeX\tex\latex\translator\translator-theorem-dictionary-English.dict
 INPUT C:\Program Files\MiKTeX\tex\latex\translator\translator-theorem-dictionary-English.dict
 INPUT C:\Program Files\MiKTeX\tex\latex\translator\translator-theorem-dictionary-English.dict
-INPUT .\BadHerrenalb.nav
-INPUT BadHerrenalb.nav
-INPUT BadHerrenalb.nav
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
 INPUT .\figures\NPSMN.jpg
@@ -1396,23 +1383,16 @@ INPUT .\figures\NPSMN.jpg
 INPUT figures\NPSMN.jpg
 INPUT .\figures\NPSMN.jpg
 INPUT C:\Users\mk\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT .\BadHerrenalb.toc
-INPUT BadHerrenalb.toc
-INPUT BadHerrenalb.toc
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss9.tfm
 INPUT .\figures\NPSMN.jpg
 INPUT .\figures\NPSMN.jpg
 INPUT figures\NPSMN.jpg
 INPUT .\figures\NPSMN.jpg
-INPUT .\BadHerrenalb.toc
-INPUT BadHerrenalb.toc
-INPUT BadHerrenalb.toc
 INPUT .\figures\NPSMN.jpg
 INPUT .\figures\NPSMN.jpg
 INPUT figures\NPSMN.jpg
 INPUT .\figures\NPSMN.jpg
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
 INPUT .\figures\NPSMN.jpg
 INPUT .\figures\NPSMN.jpg
 INPUT figures\NPSMN.jpg
@@ -1488,9 +1468,6 @@ INPUT .\figures\NPSMN.jpg
 INPUT .\figures\NPSMN.jpg
 INPUT figures\NPSMN.jpg
 INPUT .\figures\NPSMN.jpg
-INPUT .\BadHerrenalb.toc
-INPUT BadHerrenalb.toc
-INPUT BadHerrenalb.toc
 INPUT .\figures\NPSMN.jpg
 INPUT .\figures\NPSMN.jpg
 INPUT figures\NPSMN.jpg
@@ -1588,9 +1565,6 @@ INPUT .\figures\NPSMN.jpg
 INPUT .\figures\NPSMN.jpg
 INPUT figures\NPSMN.jpg
 INPUT .\figures\NPSMN.jpg
-INPUT .\BadHerrenalb.toc
-INPUT BadHerrenalb.toc
-INPUT BadHerrenalb.toc
 INPUT .\figures\NPSMN.jpg
 INPUT .\figures\NPSMN.jpg
 INPUT figures\NPSMN.jpg
@@ -1661,8 +1635,6 @@ OUTPUT BadHerrenalb.snm
 INPUT BadHerrenalb.aux
 INPUT .\BadHerrenalb.out
 INPUT .\BadHerrenalb.out
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmss10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmss10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmss12.pfb

@@ -1,9 +1,0 @@
-%\usepackage{tikz}
-
-\logo { 
-\begin{tikzpicture}[overlay,remember picture]
-\node[right=0.05cm] at (current page.155){
-    \includegraphics[width=1.35cm]{figures/NPSMN.jpg}
-};
-\end{tikzpicture}
-}
