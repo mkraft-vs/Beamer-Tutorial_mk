@@ -1,0 +1,9 @@
+\frametitle{Backup slides}
+Sometimes, it is useful to add slides at the end of your presentation ^^I^^I^^Ito refer to during audience questions.
+^^I^^I
+^^I^^IThe best way to do this is to include the
+^^I^^I\verb|appendixnumberbeamer|^^Ipackage in your preamble and call
+^^I^^I\verb|\appendix| before your backup slides.
+^^I^^I
+^^I^^I\themename will automatically turn off slide numbering and progress ^^I^^I^^Ibars for slides in the appendix.
+^^I^^I

@@ -1,0 +1,15 @@
+https://github.com/vskbellala/metropolis-brown
+
+
+    Copy metropolisbrown.sty to your project.
+    In your main.tex, set up Metropolis and load the package.
+
+% Preamble
+\documentclass[10pt]{beamer}
+\usetheme[progressbar=frametitle]{metropolis}
+\usepackage{appendixnumberbeamer}
+\usepackage{metropolisbrown} % Don't forget to load this!
+
+    Enjoy your presentation!
+	
+\usepackage{metropolisbrown}

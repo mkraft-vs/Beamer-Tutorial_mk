@@ -1,0 +1,5 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'Kurs-Bienenweide-43.blg'
+[121] biber-MSWIN64:342> INFO - === 
+[586] Utils.pm:479> ERROR - Cannot find 'Kurs-Bienenweide-43.bcf'!
+[586] Biber.pm:137> INFO - ERRORS: 1

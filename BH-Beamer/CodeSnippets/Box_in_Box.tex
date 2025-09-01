@@ -1,0 +1,15 @@
+%----------------------------------------------------------
+\section{Boxes in boxes}
+\begin{tcolorbox}[colback=yellow!10!white,colframe=yellow!50!black,
+  every box/.style={fonttitle=\bfseries},title=Box]
+  \begin{tcolorbox}[enhanced,colback=red!10!white,colframe=red!50!black,
+    colbacktitle=red!85!black,
+    title=Box inside box,drop fuzzy shadow]
+    \begin{tcolorbox}[beamer,colframe=blue!50!black,title=Box inside box inside box]
+      And now for something completely different: Boxes!\par\medskip
+      \newtcbox{\mybox}[1][]{nobeforeafter,tcbox raise base,colframe=green!50!black,colback=green!10!white,
+        sharp corners,top=1pt,bottom=1pt,before upper=\strut,#1}
+      \mybox[rounded corners=west]{This} \mybox{is} \mybox{another} \mybox[rounded corners=east]{box.}
+    \end{tcolorbox}
+  \end{tcolorbox}
+\end{tcolorbox}
